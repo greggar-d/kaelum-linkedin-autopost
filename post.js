@@ -172,6 +172,7 @@ function logPosted(entry) {
   fs.writeFileSync(file, JSON.stringify(log, null, 2));
 }
 
+
 function alreadyPosted(destination, slot, day) {
   const file = path.join(__dirname, "posted-log.json");
   if (!fs.existsSync(file)) return false;
@@ -183,7 +184,7 @@ function alreadyPosted(destination, slot, day) {
 }
 
 (async function main() {
-  const startDate = process.env.START_DATE;
+  const startDate = (process.env.START_DATE || "").trim();
   if (!startDate) fail("START_DATE secret/var is not set. Use YYYY-MM-DD.");
 
   const { destination, slot } = resolveTrigger();
