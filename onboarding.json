@@ -1,0 +1,464 @@
+{
+  "customer1": {
+    "headline": "For customers: become a founding member.",
+    "v1": {
+      "caption": "Joining KAELUM early as a customer means becoming a genuine founding member of an ecosystem, not just an early sign-up to a waitlist. Governed by K.A.T.E. from your very first transaction, customer onboarding is built to be fast, clear, and genuinely rewarding from day one.",
+      "hashtags": "#kaelum #ai #customers #onboarding #commercecurrency"
+    },
+    "v2": {
+      "caption": "Founding customer status on KAELUM means more than an early badge, it means shaping how the customer side of the ecosystem actually develops, governed by K.A.T.E. throughout.",
+      "hashtags": "#kaelum #ai #customers #commercecurrency #klm"
+    }
+  },
+  "customer2": {
+    "headline": "For customers: spend less, own more.",
+    "v1": {
+      "caption": "Every KLM purchase comes with a guaranteed minimum 6% saving when spent with participating merchants, governed by K.A.T.E. across every transaction. Spend less, own more, because customer onboarding should lead straight to genuine value, not a complicated rewards explainer.",
+      "hashtags": "#kaelum #ai #savings #klm #commercecurrency"
+    },
+    "v2": {
+      "caption": "Spending less while building genuine ownership within the ecosystem, the customer onboarding promise on KAELUM, governed by K.A.T.E. from the first KLM purchase onward.",
+      "hashtags": "#kaelum #ai #klm #ownership #commercecurrency"
+    }
+  },
+  "customer3": {
+    "headline": "For customers: discounts that stack.",
+    "v1": {
+      "caption": "Discounts on KAELUM are not capped at a single use, they stack with genuine participation, governed by K.A.T.E. throughout the ecosystem. Onboarding introduces customers to a saving structure that compounds, not one that resets the moment a promotion ends.",
+      "hashtags": "#kaelum #ai #discounts #klm #commercecurrency"
+    },
+    "v2": {
+      "caption": "Stacking discounts, governed by K.A.T.E., reward genuine ongoing participation rather than offering a single-use promotional rate that disappears after the first transaction.",
+      "hashtags": "#kaelum #ai #savings #commercecurrency #klm"
+    }
+  },
+  "customer4": {
+    "headline": "For customers: your money actually grows.",
+    "v1": {
+      "caption": "Holding value within KAELUM's ecosystem, governed by K.A.T.E., means genuine growth through KPR distributions and the price appreciation engine, not passive money sitting idle in a typical account.",
+      "hashtags": "#kaelum #ai #kpr #klm #growth"
+    },
+    "v2": {
+      "caption": "Customer onboarding introduces the mechanics that make holding KLM genuinely productive, governed by K.A.T.E., rather than money that simply sits without working for you.",
+      "hashtags": "#kaelum #ai #klm #growth #commercecurrency"
+    }
+  },
+  "customer5": {
+    "headline": "For customers: no direct banks, no card fees, no BS.",
+    "v1": {
+      "caption": "Customer onboarding on KAELUM means stepping out of a system layered with intermediary fees and into a closed-loop ecosystem governed directly by K.A.T.E. No card network markup, no hidden intermediary cut, genuinely transparent from the first transaction.",
+      "hashtags": "#kaelum #ai #transparency #commercecurrency #klm"
+    },
+    "v2": {
+      "caption": "Removing the intermediary fees layered into traditional card spending is the entire point of how KAELUM was built, governed by K.A.T.E., transparent from your very first transaction onward.",
+      "hashtags": "#kaelum #ai #klm #transparency #fintech"
+    }
+  },
+  "customer6": {
+    "headline": "For customers: rewards that never expire.",
+    "v1": {
+      "caption": "Customer onboarding establishes the reward mechanics early, KLMback, TPR distributions, governed by K.A.T.E. and built to persist rather than expire on a fixed schedule designed to discourage redemption.",
+      "hashtags": "#kaelum #ai #rewards #klm #commercecurrency"
+    },
+    "v2": {
+      "caption": "Rewards that genuinely persist, not points engineered to quietly expire, are part of what customer onboarding introduces from day one, governed continuously by K.A.T.E.",
+      "hashtags": "#kaelum #ai #commercecurrency #rewards #klm"
+    }
+  },
+  "customer7": {
+    "headline": "For customers: join the closed-loop ecosystem.",
+    "v1": {
+      "caption": "Onboarding as a customer means joining a closed-loop ecosystem operating under the UK Electronic Money Regulations 2011 and EU E-Money Directive exemption, governed by K.A.T.E. throughout. Genuine regulatory soundness, not just a marketing claim.",
+      "hashtags": "#kaelum #ai #closedloop #regulation #commercecurrency"
+    },
+    "v2": {
+      "caption": "Joining a closed-loop ecosystem, governed by K.A.T.E. and structurally sound under UK and EU regulatory frameworks, is what customer onboarding genuinely introduces, not just access to an app.",
+      "hashtags": "#kaelum #ai #regulation #commercecurrency #klm"
+    }
+  },
+  "customer8": {
+    "headline": "For customers: verified to earn, connected to do more.",
+    "v1": {
+      "caption": "Verification during onboarding, governed by K.A.T.E., is not a one-time gate but an ongoing process that unlocks deeper participation as trust builds. Verified to earn, connected to do more, structured progression rather than a single static threshold.",
+      "hashtags": "#kaelum #ai #verification #trust #commercecurrency"
+    },
+    "v2": {
+      "caption": "Onboarding establishes verification as an ongoing relationship, governed by K.A.T.E., unlocking deeper ecosystem access as genuine trust develops, not a single static check completed once.",
+      "hashtags": "#kaelum #ai #trust #verification #commercecurrency"
+    }
+  },
+  "customer9": {
+    "headline": "For customers: the early thing returns are worth your loyalty.",
+    "v1": {
+      "caption": "Joining early as a customer means genuine early-participant returns, governed by K.A.T.E., the kind of value that rewards the people who joined before the ecosystem reached scale, not just the people who joined after it was already proven.",
+      "hashtags": "#kaelum #ai #earlyparticipant #commercecurrency #klm"
+    },
+    "v2": {
+      "caption": "Early customer loyalty is rewarded structurally on KAELUM, governed by K.A.T.E., not just acknowledged with a badge that means nothing once the platform scales.",
+      "hashtags": "#kaelum #ai #loyalty #commercecurrency #klm"
+    }
+  },
+  "customer10": {
+    "headline": "For customers: every transaction builds toward something.",
+    "v1": {
+      "caption": "Onboarding introduces customers to the idea that every transaction, governed by K.A.T.E., contributes to genuine ecosystem standing, loyalty, savings, participation, that compounds rather than resetting with each purchase.",
+      "hashtags": "#kaelum #ai #commercecurrency #klm #loyalty"
+    },
+    "v2": {
+      "caption": "Every transaction contributing to something lasting, governed by K.A.T.E., is the principle customer onboarding establishes from the very first purchase onward.",
+      "hashtags": "#kaelum #ai #klm #commercecurrency #value"
+    }
+  },
+  "customer11": {
+    "headline": "For customers: simple onboarding, real savings.",
+    "v1": {
+      "caption": "Onboarding was deliberately built to be straightforward, governed by K.A.T.E., because the actual value, guaranteed 6% or more savings, should not require navigating a complicated sign-up process to access.",
+      "hashtags": "#kaelum #ai #onboarding #savings #commercecurrency"
+    },
+    "v2": {
+      "caption": "Simple onboarding leading directly to real, guaranteed savings, governed by K.A.T.E., is exactly how customer access to KAELUM was designed to work.",
+      "hashtags": "#kaelum #ai #savings #onboarding #klm"
+    }
+  },
+  "customer12": {
+    "headline": "For customers: spend with confidence.",
+    "v1": {
+      "caption": "Confidence in spending comes from predictability, governed by K.A.T.E., a fixed £0.09 KLM price, a guaranteed minimum discount, no surprise fees discovered after the fact. Customer onboarding introduces that predictability from the first transaction.",
+      "hashtags": "#kaelum #ai #confidence #klm #commercecurrency"
+    },
+    "v2": {
+      "caption": "Spending with genuine confidence requires predictable mechanics, governed by K.A.T.E. throughout, which is exactly what customer onboarding on KAELUM establishes from day one.",
+      "hashtags": "#kaelum #ai #commercecurrency #klm #predictability"
+    }
+  },
+  "customer13": {
+    "headline": "For customers: your standing, your control.",
+    "v1": {
+      "caption": "Customer standing within the ecosystem, governed by K.A.T.E. and verified continuously, belongs to the customer, not the platform. Onboarding introduces ownership of identity and standing as a core principle, not an afterthought.",
+      "hashtags": "#kaelum #ai #identity #ownership #commercecurrency"
+    },
+    "v2": {
+      "caption": "Owning your standing within the ecosystem, governed by K.A.T.E., is established from the very start of customer onboarding, not something customers have to fight to claim later.",
+      "hashtags": "#kaelum #ai #commercecurrency #ownership #klm"
+    }
+  },
+  "customer14": {
+    "headline": "For customers: welcome to a smarter way to spend.",
+    "v1": {
+      "caption": "Completing onboarding means genuine entry into an Ai-governed commerce currency ecosystem, K.A.T.E. governing every transaction from this point forward. Welcome to a smarter way to spend, save and participate.",
+      "hashtags": "#kaelum #ai #commercecurrency #klm #onboarding"
+    },
+    "v2": {
+      "caption": "The final step of customer onboarding is genuinely the first step of everything else, governed continuously by K.A.T.E. A smarter way to spend, starting now.",
+      "hashtags": "#kaelum #ai #klm #commercecurrency #onboarding"
+    }
+  },
+  "creator1": {
+    "headline": "For creators: become a founding sub-currency partner.",
+    "v1": {
+      "caption": "Creator onboarding introduces a genuinely different opportunity than most creator platforms offer, becoming a Founding partner with structural upside, not just an early account. Governed by K.A.T.E. throughout, the path from sign-up to genuine commerce monetisation starts here.",
+      "hashtags": "#kaelum #ai #creators #onboarding #commercecurrency"
+    },
+    "v2": {
+      "caption": "Founding creator status on KAELUM, governed by K.A.T.E., means genuine structural participation in the ecosystem, not just early access to a feed.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #klm"
+    }
+  },
+  "creator2": {
+    "headline": "For creators: generate shoppable links and tour your content.",
+    "v1": {
+      "caption": "Social Paylinks, introduced during creator onboarding and governed by K.A.T.E., turn content directly into commerce, shoppable links that monetise audience engagement immediately, not eventually through a separate sponsorship deal.",
+      "hashtags": "#kaelum #ai #creators #paylinks #commercecurrency"
+    },
+    "v2": {
+      "caption": "Turning content into immediate commerce through Social Paylinks, governed by K.A.T.E., is one of the first capabilities creator onboarding introduces.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #monetisation"
+    }
+  },
+  "creator3": {
+    "headline": "For creators: get discovered by your category.",
+    "v1": {
+      "caption": "Discoverability within KAELUM's creator ecosystem is governed by K.A.T.E., surfacing creators to genuinely relevant audiences within their category rather than relying on a generic algorithm optimised purely for engagement time.",
+      "hashtags": "#kaelum #ai #creators #discoverability #commercecurrency"
+    },
+    "v2": {
+      "caption": "Category-relevant discoverability, governed by K.A.T.E., is built into creator onboarding from the start, connecting creators to genuinely interested audiences rather than chasing generic engagement.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #discoverability"
+    }
+  },
+  "creator4": {
+    "headline": "For creators: earn royalties, build for the future.",
+    "v1": {
+      "caption": "Royalty mechanics, introduced during onboarding and governed by K.A.T.E., let creators build genuine, lasting income streams rather than one-off payments tied to a single piece of content or campaign.",
+      "hashtags": "#kaelum #ai #creators #royalties #commercecurrency"
+    },
+    "v2": {
+      "caption": "Building lasting income through royalties, governed by K.A.T.E., is part of what creator onboarding establishes early, income that compounds rather than resets with every new piece of content.",
+      "hashtags": "#kaelum #ai #royalties #creators #commercecurrency"
+    }
+  },
+  "creator5": {
+    "headline": "For creators: simple sign-up, real revenue.",
+    "v1": {
+      "caption": "Creator onboarding was built to move quickly from sign-up to genuine revenue, governed by K.A.T.E. throughout, without a lengthy approval process standing between a creator and their first Commerce Drop.",
+      "hashtags": "#kaelum #ai #creators #revenue #onboarding"
+    },
+    "v2": {
+      "caption": "Simple sign-up leading directly to real revenue opportunities, governed by K.A.T.E., is exactly how creator onboarding on KAELUM was designed to work.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #revenue"
+    }
+  },
+  "creator6": {
+    "headline": "For creators: settled, connected and growing.",
+    "v1": {
+      "caption": "Settlement, audience connection and ecosystem growth are designed to work together for creators on KAELUM, governed by K.A.T.E. throughout, rather than three separate problems creators have to solve independently across different platforms.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #ecosystem"
+    },
+    "v2": {
+      "caption": "Settlement, connection and growth, unified for creators within one ecosystem, governed by K.A.T.E., instead of fragmented across the multiple platforms creators usually have to juggle.",
+      "hashtags": "#kaelum #ai #creators #ecosystem #commercecurrency"
+    }
+  },
+  "creator7": {
+    "headline": "For creators: monetise without selling out.",
+    "v1": {
+      "caption": "Genuine monetisation through Commerce Drops and Social Paylinks, governed by K.A.T.E., lets creators earn directly from their audience without compromising creative integrity for a sponsorship deal that does not fit their content.",
+      "hashtags": "#kaelum #ai #creators #monetisation #commercecurrency"
+    },
+    "v2": {
+      "caption": "Monetisation that does not require compromising creative direction, governed by K.A.T.E., is what creator onboarding on KAELUM is genuinely built around.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #klm"
+    }
+  },
+  "creator8": {
+    "headline": "For creators: own your audience data.",
+    "v1": {
+      "caption": "Audience relationships built on KAELUM, governed by K.A.T.E., remain genuinely owned by the creator, not locked inside a platform that could change the rules or restrict access at any point.",
+      "hashtags": "#kaelum #ai #creators #ownership #data"
+    },
+    "v2": {
+      "caption": "Genuine audience ownership, governed by K.A.T.E., is part of what makes creator onboarding on KAELUM different from platforms that quietly own the relationship instead.",
+      "hashtags": "#kaelum #ai #creators #ownership #commercecurrency"
+    }
+  },
+  "creator9": {
+    "headline": "For creators: your fans become investors.",
+    "v1": {
+      "caption": "Through Commerce Drops and KST participation, governed by K.A.T.E., a creator's audience can move beyond passive following into genuine commercial participation, fans becoming stakeholders in the creator's commerce activity.",
+      "hashtags": "#kaelum #ai #creators #commercedrops #commercecurrency"
+    },
+    "v2": {
+      "caption": "Turning fans into genuine commercial participants, governed by K.A.T.E. through Commerce Drops, is part of the deeper opportunity creator onboarding introduces.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #klm"
+    }
+  },
+  "creator10": {
+    "headline": "For creators: automate your income.",
+    "v1": {
+      "caption": "Creator Studio, governed by K.A.T.E. and powered exclusively by Claude, automates the operational side of monetisation, pricing guidance, listing optimisation, so creators spend less time managing logistics and more time creating.",
+      "hashtags": "#kaelum #ai #creators #automation #claude"
+    },
+    "v2": {
+      "caption": "Automated income management through Creator Studio, governed by K.A.T.E., is introduced during onboarding so creators can focus on content rather than operational overhead.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #automation"
+    }
+  },
+  "creator11": {
+    "headline": "For creators: the creator economy is broken, here is the fix.",
+    "v1": {
+      "caption": "The creator economy has rewarded attention metrics over genuine income for years. Creator onboarding on KAELUM, governed by K.A.T.E., introduces a fix, direct commerce monetisation through Social Paylinks and Commerce Drops, not another platform measuring follower counts.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #monetisation"
+    },
+    "v2": {
+      "caption": "Direct commerce monetisation, governed by K.A.T.E. through Social Paylinks and Commerce Drops, is KAELUM's answer to a creator economy that has prioritised attention over genuine income for too long.",
+      "hashtags": "#kaelum #ai #creators #klm #commercecurrency"
+    }
+  },
+  "creator12": {
+    "headline": "For creators: connected to the ecosystem from day one.",
+    "v1": {
+      "caption": "Onboarding integrates creators into the full KAELUM ecosystem from the very first step, governed by K.A.T.E., alongside customers and merchants as co-equal participants, not a separate creator-only silo bolted onto the main platform.",
+      "hashtags": "#kaelum #ai #creators #ecosystem #commercecurrency"
+    },
+    "v2": {
+      "caption": "Genuine integration into the full ecosystem from day one, governed by K.A.T.E., is what distinguishes creator onboarding on KAELUM from a creator-only silo elsewhere.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #ecosystem"
+    }
+  },
+  "creator13": {
+    "headline": "For creators: build something that compounds.",
+    "v1": {
+      "caption": "Onboarding introduces creators to mechanics built for compounding value, royalties, KST participation, audience ownership, governed by K.A.T.E. throughout, rather than income that resets with every new content cycle.",
+      "hashtags": "#kaelum #ai #creators #compounding #commercecurrency"
+    },
+    "v2": {
+      "caption": "Compounding value, not value that resets with every content cycle, governed by K.A.T.E., is the foundation creator onboarding establishes on KAELUM.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #klm"
+    }
+  },
+  "creator14": {
+    "headline": "For creators: welcome to genuine commerce participation.",
+    "v1": {
+      "caption": "Completing onboarding means full entry into KAELUM's commerce ecosystem, governed by K.A.T.E., as a genuine co-equal participant alongside customers and merchants. Welcome to creator monetisation built around commerce, not attention.",
+      "hashtags": "#kaelum #ai #creators #commercecurrency #onboarding"
+    },
+    "v2": {
+      "caption": "The final step of creator onboarding is genuine entry into the commerce ecosystem itself, governed by K.A.T.E., not just access to another content platform.",
+      "hashtags": "#kaelum #ai #creators #klm #commercecurrency"
+    }
+  },
+  "merchant1": {
+    "headline": "For merchants: become a Founding Merchant.",
+    "v1": {
+      "caption": "Merchant onboarding introduces the Founding Merchant programme early, governed by K.A.T.E., genuine partnership and ecosystem influence rather than a temporary discount code designed to win a signature and move on.",
+      "hashtags": "#kaelum #ai #merchants #foundingmerchant #commercecurrency"
+    },
+    "v2": {
+      "caption": "Founding Merchant status, governed by K.A.T.E., gives genuine influence over the ecosystem from the very first step of merchant onboarding.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #klm"
+    }
+  },
+  "merchant2": {
+    "headline": "For merchants: zero card fees, zero chargebacks.",
+    "v1": {
+      "caption": "Merchant onboarding establishes the economic foundation immediately, governed by K.A.T.E., zero exposure to card network fees and zero chargeback risk within our closed-loop ecosystem, real cost removed from day one, not a promotional rate that quietly tightens.",
+      "hashtags": "#kaelum #ai #merchants #fees #commercecurrency"
+    },
+    "v2": {
+      "caption": "Zero card fees, zero chargebacks, governed by K.A.T.E., established from the very first step of merchant onboarding rather than promised and quietly walked back later.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #fees"
+    }
+  },
+  "merchant3": {
+    "headline": "For merchants: an Ai team, not a software tool.",
+    "v1": {
+      "caption": "Merchant onboarding introduces K.A.T.E.'s Merchant Support and Merchant Performance agents immediately, powered exclusively by Claude, dedicated commerce intelligence working continuously from the very first transaction.",
+      "hashtags": "#kaelum #ai #merchants #claude #kate"
+    },
+    "v2": {
+      "caption": "An Ai team working for the merchant from the start, governed by K.A.T.E. and powered exclusively by Claude, is part of what merchant onboarding establishes immediately.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #claude"
+    }
+  },
+  "merchant4": {
+    "headline": "For merchants: commerce intelligence built in.",
+    "v1": {
+      "caption": "Every transaction enriched automatically, governed by K.A.T.E.'s Transaction Insights agent, is part of what merchant onboarding introduces from the start, commerce intelligence as a standard platform feature, not a premium add-on to unlock later.",
+      "hashtags": "#kaelum #ai #merchants #commerceintelligence #klm"
+    },
+    "v2": {
+      "caption": "Built-in commerce intelligence, governed by K.A.T.E., is established immediately during merchant onboarding, not gated behind a separate analytics subscription.",
+      "hashtags": "#kaelum #ai #commerceintelligence #merchants #commercecurrency"
+    }
+  },
+  "merchant5": {
+    "headline": "For merchants: loyalty that compounds, not resets.",
+    "v1": {
+      "caption": "Merchant onboarding introduces customer loyalty mechanics governed by K.A.T.E. that compound over time, the guaranteed 6% discount, KLMback rewards, building genuine repeat business rather than a loyalty scheme that resets every renewal period.",
+      "hashtags": "#kaelum #ai #merchants #loyalty #commercecurrency"
+    },
+    "v2": {
+      "caption": "Compounding customer loyalty, governed by K.A.T.E., is part of the value merchant onboarding introduces from the very first day a merchant joins the ecosystem.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #loyalty"
+    }
+  },
+  "merchant6": {
+    "headline": "For merchants: simple onboarding, real growth.",
+    "v1": {
+      "caption": "Merchant onboarding was built to be straightforward, governed by K.A.T.E., so businesses can start accepting KLM and accessing commerce intelligence quickly, without a lengthy integration process standing in the way of genuine growth.",
+      "hashtags": "#kaelum #ai #merchants #onboarding #growth"
+    },
+    "v2": {
+      "caption": "Simple onboarding leading directly to genuine growth tools, governed by K.A.T.E., is how merchant access to KAELUM was designed to work.",
+      "hashtags": "#kaelum #ai #growth #merchants #commercecurrency"
+    }
+  },
+  "merchant7": {
+    "headline": "For merchants: discovered by global shoppers, retain through participation.",
+    "v1": {
+      "caption": "Merchant onboarding connects businesses to genuine ecosystem discoverability, governed by K.A.T.E., while loyalty mechanics keep customers returning through participation rather than a one-time promotional push.",
+      "hashtags": "#kaelum #ai #merchants #discoverability #commercecurrency"
+    },
+    "v2": {
+      "caption": "Discoverability and genuine retention, governed by K.A.T.E., work together from the start of merchant onboarding, not as two separate problems merchants have to solve independently.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #retention"
+    }
+  },
+  "merchant8": {
+    "headline": "For merchants: every type of pricing intelligence, decoded.",
+    "v1": {
+      "caption": "Merchant onboarding introduces commerce intelligence, governed by K.A.T.E.'s Transaction Insights and Merchant Performance agents, that decodes pricing patterns and customer behaviour automatically rather than requiring a dedicated analyst to interpret.",
+      "hashtags": "#kaelum #ai #merchants #pricing #commerceintelligence"
+    },
+    "v2": {
+      "caption": "Pricing intelligence decoded automatically, governed by K.A.T.E., is part of what merchant onboarding establishes immediately, no dedicated analyst required.",
+      "hashtags": "#kaelum #ai #commerceintelligence #merchants #klm"
+    }
+  },
+  "merchant9": {
+    "headline": "For merchants: become a founding icon, purchase a sub-currency.",
+    "v1": {
+      "caption": "Founding Icon status, introduced during merchant onboarding and governed by K.A.T.E., offers genuine sub-currency ownership through KSC, structural infrastructure stake, not a tier upgrade.",
+      "hashtags": "#kaelum #ai #merchants #ksc #foundingicon"
+    },
+    "v2": {
+      "caption": "Genuine ownership through KSC Sub-Token participation, governed by K.A.T.E., is introduced to qualifying merchants during onboarding as the Founding Icon path.",
+      "hashtags": "#kaelum #ai #merchants #ksc #commercecurrency"
+    }
+  },
+  "merchant10": {
+    "headline": "For merchants: too many platform costs eat into your bottom line.",
+    "v1": {
+      "caption": "Merchant onboarding addresses a real, often unspoken frustration directly, the compounding cost of multiple platform fees eating into margin. KAELUM, governed by K.A.T.E., consolidates that cost into one transparent structure instead.",
+      "hashtags": "#kaelum #ai #merchants #fees #commercecurrency"
+    },
+    "v2": {
+      "caption": "Compounding platform costs eating into margin is exactly what merchant onboarding on KAELUM was built to address, governed by K.A.T.E. with one transparent fee structure instead of several stacked ones.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #fees"
+    }
+  },
+  "merchant11": {
+    "headline": "For merchants: increased loyalty, not just more pony.",
+    "v1": {
+      "caption": "Onboarding introduces a loyalty model built around genuine ecosystem participation, governed by K.A.T.E., not a one-time promotional discount engineered to drive a single spike in sign-ups.",
+      "hashtags": "#kaelum #ai #merchants #loyalty #commercecurrency"
+    },
+    "v2": {
+      "caption": "Genuine, lasting loyalty rather than a one-off promotional spike is what merchant onboarding establishes, governed continuously by K.A.T.E.",
+      "hashtags": "#kaelum #ai #commercecurrency #merchants #loyalty"
+    }
+  },
+  "merchant12": {
+    "headline": "For merchants: the loudest fight to the front of the line.",
+    "v1": {
+      "caption": "Founding Merchant and Founding Icon status, introduced during onboarding and governed by K.A.T.E., give early merchants genuine priority within the ecosystem, not just a badge that fades once the platform scales.",
+      "hashtags": "#kaelum #ai #merchants #foundingmerchant #commercecurrency"
+    },
+    "v2": {
+      "caption": "Genuine early-merchant priority, governed by K.A.T.E., is part of what onboarding establishes for Founding Merchants and Founding Icons from the very start.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #klm"
+    }
+  },
+  "merchant13": {
+    "headline": "For merchants: the sourced merchant network or registered users beyond word of mouth.",
+    "v1": {
+      "caption": "Merchant onboarding connects businesses into a genuine customer network governed by K.A.T.E., growth driven by ecosystem participation and discoverability, not solely dependent on word of mouth or paid acquisition.",
+      "hashtags": "#kaelum #ai #merchants #network #commercecurrency"
+    },
+    "v2": {
+      "caption": "Genuine network-driven growth, governed by K.A.T.E., is introduced during merchant onboarding as an alternative to relying purely on word of mouth or paid customer acquisition.",
+      "hashtags": "#kaelum #ai #merchants #commercecurrency #growth"
+    }
+  },
+  "merchant14": {
+    "headline": "For merchants: any opportunity heard before is the priced for the merchants.",
+    "v1": {
+      "caption": "Pricing transparency, governed by K.A.T.E., means merchants understand exactly what an opportunity costs and what it returns before committing, not buried in fine print discovered after onboarding completes.",
+      "hashtags": "#kaelum #ai #merchants #transparency #commercecurrency"
+    },
+    "v2": {
+      "caption": "Transparent pricing on every merchant opportunity, governed by K.A.T.E., is established clearly during onboarding, not left for merchants to discover after the fact.",
+      "hashtags": "#kaelum #ai #transparency #merchants #commercecurrency"
+    }
+  }
+}

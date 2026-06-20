@@ -1,0 +1,77 @@
+name: KAELUM LinkedIn auto-post
+
+# All times are UTC. UK is BST (UTC+1) from late March to late October, which
+# covers a 90 day run started in summer. UK time minus one hour = UTC.
+#   08:00 UTC = 09:00 UK  personal slot 1
+#   11:00 UTC = 12:00 UK  KAELUM   slot 1
+#   13:00 UTC = 14:00 UK  KAELUM   slot 2
+#   14:00 UTC = 15:00 UK  personal slot 2
+#   17:00 UTC = 18:00 UK  personal slot 3
+#   20:00 UTC = 21:00 UK  KAELUM   slot 3
+#
+# Note: GitHub's scheduler is best-effort and can run a few minutes late under
+# load. That is fine for social posting. See README "Known limits".
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+    inputs:
+      destination:
+        description: "Manual test: destination (personal or kaelum)"
+        required: false
+      slot:
+        description: "Manual test: slot (1, 2 or 3)"
+        required: false
+      dry_run:
+        description: "true = preview only, nothing published"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Publish the scheduled post
+        env:
+          # Set these in Settings > Secrets and variables > Actions
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+          LINKEDIN_ORG_URN: ${{ secrets.LINKEDIN_ORG_URN }}
+          START_DATE: ${{ vars.START_DATE }}
+          # On a schedule run, GitHub provides the triggering cron here.
+          TRIGGER_CRON: ${{ github.event.schedule }}
+          # On a manual run, these drive the test instead.
+          DESTINATION: ${{ github.event.inputs.destination }}
+          SLOT: ${{ github.event.inputs.slot }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: node post.js
+
+      - name: Record what was posted
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          if [ -n "$(git status --porcelain posted-log.json)" ]; then
+            git config user.name "kaelum-autopost"
+            git config user.email "actions@users.noreply.github.com"
+            git add posted-log.json
+            git commit -m "log: posted entry [skip ci]"
+            git push
+          else
+            echo "No new post logged."
+          fi
