@@ -109,20 +109,50 @@ function findPost(rows, destination, slot, day) {
 // ---- LinkedIn API calls (only reached when DRY_RUN is false) -------------
 
 async function initImageUpload(token, owner) {
-  const res = await fetch(API + "/images?action=initializeUpload", {
-    method: "POST",
-    headers: {
-      Authorization: "Bearer " + token,
-      "LinkedIn-Version": LINKEDIN_VERSION,
-      "X-Restli-Protocol-Version": "2.0.0",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ initializeUploadRequest: { owner } }),
-  });
-  const text = await res.text();
-  if (!res.ok) fail("initializeUpload failed: " + res.status + " " + text);
-  const data = JSON.parse(text);
-  return { uploadUrl: data.value.uploadUrl, imageUrn: data.value.image };
+  const isOrg = owner.includes("organization");
+  
+  if (isOrg) {
+    const res = await fetch(API + "/images?action=initializeUpload", {
+      method: "POST",
+      headers: {
+        Authorization: "Bearer " + token,
+        "LinkedIn-Version": LINKEDIN_VERSION,
+        "X-Restli-Protocol-Version": "2.0.0",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ initializeUploadRequest: { owner } }),
+    });
+    const text = await res.text();
+    if (!res.ok) fail("initializeUpload failed: " + res.status + " " + text);
+    const data = JSON.parse(text);
+    return { uploadUrl: data.value.uploadUrl, imageUrn: data.value.image };
+  } else {
+    const res = await fetch(API + "/assets?action=registerUpload", {
+      method: "POST",
+      headers: {
+        Authorization: "Bearer " + token,
+        "X-Restli-Protocol-Version": "2.0.0",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        registerUploadRequest: {
+          owner,
+          recipes: ["urn:li:digitalmediaRecipe:feedshare-image"],
+          serviceRelationships: [{
+            relationshipType: "OWNER",
+            identifier: "urn:li:userGeneratedContent"
+          }]
+        }
+      }),
+    });
+    const text = await res.text();
+    if (!res.ok) fail("registerUpload failed: " + res.status + " " + text);
+    const data = JSON.parse(text);
+    return {
+      uploadUrl: data.value.uploadMechanism["com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest"].uploadUrl,
+      imageUrn: data.value.asset
+    };
+  }
 }
 
 async function uploadImageBytes(uploadUrl, token, imagePath) {
