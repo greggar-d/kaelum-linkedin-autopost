@@ -113,7 +113,7 @@ async function initImageUpload(token, owner) {
     method: "POST",
     headers: {
       Authorization: "Bearer " + token,
-      "LinkedIn-Version": "202404",
+      "LinkedIn-Version": "202501",
       "X-Restli-Protocol-Version": "2.0.0",
       "Content-Type": "application/json",
     },
