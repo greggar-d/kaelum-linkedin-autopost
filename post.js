@@ -102,7 +102,7 @@ function loadManifest() {
 
 function findPost(rows, destination, slot, day) {
   return rows.find(
-    (r) => r.destination === destination && Number(r.slot) === slot && Number(r.day) === day
+    (r) => r.destination.toLowerCase() === destination.toLowerCase() && Number(r.slot) === slot && Number(r.day) === day
   );
 }
 
