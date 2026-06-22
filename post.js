@@ -113,14 +113,15 @@ async function initImageUpload(token, owner) {
     method: "POST",
     headers: {
       Authorization: "Bearer " + token,
-      "LinkedIn-Version": "202501",
+      "LinkedIn-Version": LINKEDIN_VERSION,
       "X-Restli-Protocol-Version": "2.0.0",
       "Content-Type": "application/json",
     },
     body: JSON.stringify({ initializeUploadRequest: { owner } }),
   });
-  if (!res.ok) fail("initializeUpload failed: " + res.status + " " + (await res.text()));
-  const data = await res.json();
+  const text = await res.text();
+  if (!res.ok) fail("initializeUpload failed: " + res.status + " " + text);
+  const data = JSON.parse(text);
   return { uploadUrl: data.value.uploadUrl, imageUrn: data.value.image };
 }
 
