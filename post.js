@@ -109,21 +109,15 @@ function findPost(rows, destination, slot, day) {
 // ---- LinkedIn API calls (only reached when DRY_RUN is false) -------------
 
 async function initImageUpload(token, owner) {
-  const isOrg = owner.includes("organization");
   const res = await fetch(API + "/images?action=initializeUpload", {
     method: "POST",
     headers: {
       Authorization: "Bearer " + token,
-      "LinkedIn-Version": LINKEDIN_VERSION,
+      "LinkedIn-Version": "202404",
       "X-Restli-Protocol-Version": "2.0.0",
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({
-      initializeUploadRequest: {
-        owner,
-        ...(isOrg ? {} : { recipes: ["urn:li:digitalmediaRecipe:feedshare-image"] })
-      }
-    }),
+    body: JSON.stringify({ initializeUploadRequest: { owner } }),
   });
   if (!res.ok) fail("initializeUpload failed: " + res.status + " " + (await res.text()));
   const data = await res.json();
