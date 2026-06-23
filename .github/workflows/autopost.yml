@@ -65,7 +65,6 @@ jobs:
         run: node post.js
 
       - name: Record what was posted
-        if: ${{ github.event_name == 'schedule' }}
         run: |
           if [ -n "$(git status --porcelain posted-log.json)" ]; then
             git config user.name "kaelum-autopost"
