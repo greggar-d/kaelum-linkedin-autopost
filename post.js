@@ -229,7 +229,10 @@ function alreadyPosted(destination, slot, day) {
     return;
   }
 
-  const token = process.env.LINKEDIN_ACCESS_TOKEN;
+  const token =
+  destination === "personal"
+    ? process.env.LINKEDIN_PERSONAL_TOKEN
+    : process.env.LINKEDIN_ACCESS_TOKEN;
   if (!token) {
     if (DRY_RUN) console.log("(LINKEDIN_ACCESS_TOKEN not set in dry run, skipping token check)");
     else fail("LINKEDIN_ACCESS_TOKEN secret is not set.");
