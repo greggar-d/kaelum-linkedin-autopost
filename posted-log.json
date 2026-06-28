@@ -313,5 +313,14 @@
     "postId": "urn:li:share:7476741044588609536",
     "status": "posted",
     "at": "2026-06-27T20:59:36.391Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 1,
+    "day": 7,
+    "image": "images/personal/kaelum-get-the-merch/kaelum-get-the-merch16.png",
+    "postId": "urn:li:share:7476909636604854272",
+    "status": "posted",
+    "at": "2026-06-28T08:09:31.843Z"
   }
 ]
