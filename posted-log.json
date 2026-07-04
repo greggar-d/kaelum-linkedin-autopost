@@ -682,5 +682,14 @@
     "postId": "urn:li:share:7479232651225198592",
     "status": "posted",
     "at": "2026-07-04T18:00:21.806Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 3,
+    "day": 13,
+    "image": "images/kaelum/kaelum-financial-services/kaelum-financial-services2.png",
+    "postId": "urn:li:share:7479276280631349248",
+    "status": "posted",
+    "at": "2026-07-04T20:53:43.858Z"
   }
 ]
