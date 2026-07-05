@@ -691,5 +691,14 @@
     "postId": "urn:li:share:7479276280631349248",
     "status": "posted",
     "at": "2026-07-04T20:53:43.858Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 1,
+    "day": 14,
+    "image": "images/personal/kaelum-onboarding/kaelum-creator-onboarding9.png",
+    "postId": "urn:li:share:7479460855256952832",
+    "status": "posted",
+    "at": "2026-07-05T09:07:09.805Z"
   }
 ]
