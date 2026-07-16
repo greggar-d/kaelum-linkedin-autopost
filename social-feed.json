@@ -44,24 +44,24 @@
     }
   },
   "5": {
-    "quote": "Greggar Deterville: KAELUM uses a hardcoded floor governed by the K.A.T.E. Price Appreciation Engine. No volatility. No speculation. No sleepless nights. Just a Commerce Currency that does its job.",
+    "quote": "Greggar Deterville: KAELUM uses a fixed £0.20 rate, governed by K.A.T.E.. No volatility. No speculation. No sleepless nights. Just a Commerce Currency that does its job.",
     "v1": {
-      "caption": "A currency that lets you sleep at night is not a small thing in a category that has trained people to expect the opposite. KAELUM's hardcoded floor, governed by K.A.T.E.'s Price Appreciation Engine, exists to make volatility a non-issue.",
+      "caption": "A currency that lets you sleep at night is not a small thing in a category that has trained people to expect the opposite. KAELUM's fixed £0.20 rate, governed by K.A.T.E., exists to make volatility a non-issue.",
       "hashtags": "#kaelum #ai #klm #stability #commercecurrency"
     },
     "v2": {
-      "caption": "No volatility, no speculation, no sleepless nights checking a chart. KAELUM's hardcoded floor, governed by K.A.T.E., was built so the currency simply does its job.",
+      "caption": "No volatility, no speculation, no sleepless nights checking a chart. KAELUM's fixed £0.20 rate, governed by K.A.T.E., was built so the currency simply does its job.",
       "hashtags": "#kaelum #ai #commercecurrency #klm #stability"
     }
   },
   "6": {
-    "quote": "Greggar Deterville: KLM in your Savings Vault sits at the £0.09 floor or above, governed by K.A.T.E. No volatility. No speculation. Just a place to keep KLM until you're ready to spend it.",
+    "quote": "Greggar Deterville: KLM sits at a fixed £0.20, governed by K.A.T.E. It does not move. No volatility. No speculation. Just a place to keep KLM until you're ready to spend it.",
     "v1": {
-      "caption": "A savings product that simply holds value until you are ready to use it, governed by K.A.T.E. at the £0.09 floor or above, is a refreshingly honest proposition in a category full of promised returns.",
-      "hashtags": "#kaelum #ai #savingsvault #klm #commercecurrency"
+      "caption": "A commerce currency that simply holds its value until you are ready to spend it, governed by K.A.T.E. at a fixed £0.20, is a refreshingly honest proposition in a category full of promised returns.",
+      "hashtags": "#kaelum #ai #klm #klm #commercecurrency"
     },
     "v2": {
-      "caption": "The Savings Vault does exactly one job well: hold KLM safely at or above the floor, governed by K.A.T.E., until you are ready to spend it. No more, no less.",
+      "caption": "KLM does exactly one job well: hold a fixed £0.20, governed by K.A.T.E., until you are ready to spend it. No more, no less.",
       "hashtags": "#kaelum #ai #klm #savings #commercecurrency"
     }
   },
@@ -292,7 +292,7 @@
       "hashtags": "#kaelum #ai #savings #commercecurrency #klm"
     },
     "v2": {
-      "caption": "Merchants can offer more, never less, a guaranteed floor on the customer discount, governed by K.A.T.E. throughout the ecosystem.",
+      "caption": "Merchants can offer more, never less, a guaranteed minimum on the customer discount, governed by K.A.T.E. throughout the ecosystem.",
       "hashtags": "#kaelum #ai #klm #savings #commercecurrency"
     }
   },
@@ -341,13 +341,13 @@
     }
   },
   "32": {
-    "quote": "AUDIVO: The KAELUM 1.2% compounding price appreciation, governed by K.A.T.E., IS assessed daily at 02:00 UTC. Confidence threshold 65/100 before any movement. Engineered Scarcity, not Speculation.",
+    "quote": "AUDIVO: KLM is fixed at £0.20, governed by K.A.T.E. The price does not move.2:00 UTC. Confidence threshold 65/100 before any movement. Engineered Scarcity, not Speculation.",
     "v1": {
-      "caption": "Engineered scarcity, not speculation, assessed daily by K.A.T.E. at 02:00 UTC against a 65/100 confidence threshold before any price movement occurs. Disciplined, governed appreciation, not market guesswork.",
+      "caption": "Engineered stability, not speculation. KLM is fixed at £0.20 and does not move, governed by K.A.T.E. on every transaction. Disciplined currency design, not market guesswork.",
       "hashtags": "#kaelum #ai #klm #pricing #commercecurrency"
     },
     "v2": {
-      "caption": "A 65/100 confidence threshold before any movement, assessed daily by K.A.T.E. KLM's price appreciation is engineered discipline, not speculation dressed up as growth.",
+      "caption": "A fixed £0.20 rate with no movement at all, governed by K.A.T.E. on every transaction. KLM's stability is engineered discipline, not speculation dressed up as growth.",
       "hashtags": "#kaelum #ai #commercecurrency #klm #kate"
     }
   },
@@ -418,14 +418,14 @@
     }
   },
   "39": {
-    "quote": "RIDE Caribbean: KAELUM Vault holdings stay spendable at partnered merchants whenever you choose. Liquidity stays. Floor stays. This is the saving experience commerce always needed.",
+    "quote": "RIDE Caribbean: KLM stays spendable at partnered merchants whenever you choose. Liquidity stays. The rate stays. This is the commerce experience always needed.",
     "v1": {
-      "caption": "Liquidity stays, floor stays, spendable whenever you choose. The Savings Vault, governed by K.A.T.E., is the saving experience commerce always needed but rarely got.",
-      "hashtags": "#kaelum #ai #savingsvault #klm #commercecurrency"
+      "caption": "Liquidity stays, the rate stays, spendable whenever you choose. KLM, governed by K.A.T.E. at a fixed £0.20, is the commerce experience always needed but rarely got.",
+      "hashtags": "#kaelum #ai #klm #klm #commercecurrency"
     },
     "v2": {
-      "caption": "Staying spendable at partnered merchants, with the floor intact and liquidity preserved, governed by K.A.T.E. throughout. This is what saving should always have felt like.",
-      "hashtags": "#kaelum #ai #commercecurrency #savingsvault #klm"
+      "caption": "Staying spendable at partnered merchants, with the rate fixed and liquidity preserved, governed by K.A.T.E. throughout. This is what holding value should always have felt like.",
+      "hashtags": "#kaelum #ai #commercecurrency #klm #klm"
     }
   },
   "40": {
@@ -495,9 +495,9 @@
     }
   },
   "46": {
-    "quote": "SCOREDIT: Every signal feeding the KAELUM Value Index is auditable and Ai-governed. From price floor to network velocity to reserve health. You don't have to trust the chart. You can read it.",
+    "quote": "SCOREDIT: Every signal feeding the KAELUM Value Index is auditable and Ai-governed. From transaction volume to network velocity to reserve health. You don't have to trust the chart. You can read it.",
     "v1": {
-      "caption": "Auditable, not just trustworthy on faith. Every signal feeding KVI, governed by K.A.T.E., from price floor to network velocity to reserve health, can genuinely be read, not just believed.",
+      "caption": "Auditable, not just trustworthy on faith. Every signal feeding KVI, governed by K.A.T.E., from transaction volume to network velocity to reserve health, can genuinely be read, not just believed.",
       "hashtags": "#kaelum #ai #kvi #governance #transparency"
     },
     "v2": {
@@ -528,13 +528,13 @@
     }
   },
   "49": {
-    "quote": "Greggar Deterville: 96.3 billion KLM. 3 Reserves. 1 closed-loop Ecosystem. Backed by Fiat, governed by Ai, anchored by a £0.09 floor price that cannot fall. This is what fiat-backed Digital Commerce looks like.",
+    "quote": "Greggar Deterville: 96.3 billion KLM. 3 Reserves. 1 closed-loop Ecosystem. Backed by Fiat, governed by Ai, anchored to a fixed £0.20 rate that does not move. This is what fiat-backed Digital Commerce looks like.",
     "v1": {
-      "caption": "Backed by fiat, governed by Ai, anchored by a floor that structurally cannot fall. This is fiat-backed digital commerce, genuinely defined, governed by K.A.T.E. across every reserve.",
+      "caption": "Backed by fiat, governed by Ai, anchored to a fixed £0.20 rate that does not move. This is fiat-backed digital commerce, genuinely defined, governed by K.A.T.E. across every reserve.",
       "hashtags": "#kaelum #ai #klm #fintech #commercecurrency"
     },
     "v2": {
-      "caption": "Three reserves, one closed-loop ecosystem, a floor price that cannot fall, governed by K.A.T.E. This is what fiat-backed digital commerce actually looks like at scale.",
+      "caption": "Three reserves, one closed-loop ecosystem, a fixed rate that does not move, governed by K.A.T.E. This is what fiat-backed digital commerce actually looks like at scale.",
       "hashtags": "#kaelum #ai #commercecurrency #klm #fintech"
     }
   },
@@ -660,7 +660,7 @@
     }
   },
   "61": {
-    "quote": "TRIOVUS: KAELUM buyers pay in KLM at the £0.09 floor. Sellers receive KLM with a clean audit trail and a real tax log. Digital ownership grows up.",
+    "quote": "TRIOVUS: KAELUM buyers pay in KLM at the fixed £0.20 rate. Sellers receive KLM with a clean audit trail and a real tax log. Digital ownership grows up.",
     "v1": {
       "caption": "A clean audit trail and a real tax log, not a speculative grey area. KAELUM, governed by K.A.T.E., is what it looks like when digital ownership genuinely grows up.",
       "hashtags": "#kaelum #ai #klm #ownership #fintech"
@@ -693,13 +693,13 @@
     }
   },
   "64": {
-    "quote": "8T CLOTHING: The KAELUM Vault is anchored to a hardcoded floor and operated inside a compliant closed-loop. Your KLM stays inside an Ai-monitored ecosystem. Stability becomes the experience.",
+    "quote": "8T CLOTHING: KLM is fixed at £0.20 and operated inside a compliant closed-loop, governed by K.A.T.E.d-loop. Your KLM stays inside an Ai-monitored ecosystem. Stability becomes the experience.",
     "v1": {
-      "caption": "Stability as the actual experience, not just a claim, anchored to a hardcoded floor inside a compliant closed-loop, governed by K.A.T.E. throughout the Savings Vault.",
-      "hashtags": "#kaelum #ai #savingsvault #stability #klm"
+      "caption": "Stability as the actual experience, not just a claim, anchored to a fixed £0.20 rate inside a compliant closed-loop, governed by K.A.T.E. on every transaction.",
+      "hashtags": "#kaelum #ai #klm #stability #klm"
     },
     "v2": {
-      "caption": "Ai-monitored, compliant, anchored to a floor that holds, governed by K.A.T.E. Stability is not a feature of the Vault, it is the entire experience.",
+      "caption": "Ai-monitored, compliant, anchored to a rate that holds, governed by K.A.T.E. Stability is not a feature of KAELUM, it is the entire experience.",
       "hashtags": "#kaelum #ai #commercecurrency #klm #stability"
     }
   },

@@ -13,7 +13,7 @@
   "2": {
     "headline": "Built for customers. Designed for savings.",
     "v1": {
-      "caption": "Customers are usually the last consideration in how payment infrastructure gets designed, an afterthought once the merchant and processor economics are settled. KAELUM starts with the customer instead. Buy KLM at £0.09, spend it with participating merchants, save 6% or more, every time, governed throughout by K.A.T.E.\n\nThat saving is not a promotional rate that quietly disappears. It is structural, built into how the currency works from the ground up.",
+      "caption": "Customers are usually the last consideration in how payment infrastructure gets designed, an afterthought once the merchant and processor economics are settled. KAELUM starts with the customer instead. Buy KLM at £0.20, spend it with participating merchants, save 6% or more, every time, governed throughout by K.A.T.E.\n\nThat saving is not a promotional rate that quietly disappears. It is structural, built into how the currency works from the ground up.",
       "hashtags": "#kaelum #savings #ai #klm #commercecurrency"
     },
     "v2": {
@@ -123,7 +123,7 @@
   "12": {
     "headline": "Earn value, not volatility.",
     "v1": {
-      "caption": "Crypto asks people to accept volatility as the price of potential upside. KAELUM was built around the opposite trade, genuine value earned through real commerce participation, governed by K.A.T.E., with a hardcoded £0.09 floor that simply does not move.\n\nEarn value, not volatility, because a commerce currency should never ask its users to gamble just to participate in everyday spending.",
+      "caption": "Crypto asks people to accept volatility as the price of potential upside. KAELUM was built around the opposite trade, genuine value earned through real commerce participation, governed by K.A.T.E., at a hardcoded £0.20 that simply does not move.\n\nEarn value, not volatility, because a commerce currency should never ask its users to gamble just to participate in everyday spending.",
       "hashtags": "#kaelum #ai #klm #notcrypto #commercecurrency"
     },
     "v2": {
@@ -189,7 +189,7 @@
   "18": {
     "headline": "Interested in a smarter, fairer currency? Be part of the next platform.",
     "v1": {
-      "caption": "Smarter means governed by K.A.T.E. rather than left to market sentiment. Fairer means structural, a guaranteed customer discount, a hardcoded floor price, transparent fees, not promotional rates that quietly tighten over time. If that combination interests you, KAELUM is exactly that platform, live now.\n\nBeing part of the next platform means joining infrastructure built around genuine commerce, not speculation.",
+      "caption": "Smarter means governed by K.A.T.E. rather than left to market sentiment. Fairer means structural, a guaranteed customer discount, a hardcoded fixed rate, transparent fees, not promotional rates that quietly tighten over time. If that combination interests you, KAELUM is exactly that platform, live now.\n\nBeing part of the next platform means joining infrastructure built around genuine commerce, not speculation.",
       "hashtags": "#kaelum #ai #commercecurrency #fairness #klm"
     },
     "v2": {
@@ -275,20 +275,20 @@
     }
   },
   "26": {
-    "headline": "£0.09 guaranteed floor price.",
+    "headline": "£0.20 fixed rate.",
     "v1": {
-      "caption": "Stated plainly because it deserves to be stated plainly: KLM has a hardcoded floor price of £0.09, enforced architecturally by K.A.T.E. across every transaction. Not a target, not a goal, a guarantee built into the platform itself.\n\nThat single number is the foundation of why KLM behaves like a commerce currency rather than a speculative asset.",
-      "hashtags": "#kaelum #klm #ai #floorprice #commercecurrency"
+      "caption": "Stated plainly because it deserves to be stated plainly: KLM has a hardcoded fixed rate of £0.20, enforced architecturally by K.A.T.E. across every transaction. Not a target, not a goal, a guarantee built into the platform itself.\n\nThat single number is the foundation of why KLM behaves like a commerce currency rather than a speculative asset.",
+      "hashtags": "#kaelum #klm #ai #fixedrate #commercecurrency"
     },
     "v2": {
-      "caption": "A guaranteed floor price is a rare thing in any currency, digital or otherwise, and it is rarer still when it is architecturally enforced rather than merely promised. KLM's £0.09 floor, governed by K.A.T.E. on every transaction, is exactly that, a guarantee, not a hope.",
-      "hashtags": "#kaelum #ai #klm #commercecurrency #floorprice"
+      "caption": "A guaranteed fixed rate is a rare thing in any currency, digital or otherwise, and it is rarer still when it is architecturally enforced rather than merely promised. KLM's £0.20, governed by K.A.T.E. on every transaction, is exactly that, a guarantee, not a hope.",
+      "hashtags": "#kaelum #ai #klm #commercecurrency #fixedrate"
     }
   },
   "27": {
     "headline": "Built for stability.",
     "v1": {
-      "caption": "Stability is undervalued in digital currency conversations that tend to celebrate volatility as a feature rather than treat it as the risk it actually is. KAELUM was built around stability instead, the £0.09 floor, the K.A.T.E.-governed appreciation engine, the closed-loop exemption, all working together to keep KLM predictable for the people actually using it.",
+      "caption": "Stability is undervalued in digital currency conversations that tend to celebrate volatility as a feature rather than treat it as the risk it actually is. KAELUM was built around stability instead, the fixed £0.20 rate, K.A.T.E. governance, the closed-loop exemption, all working together to keep KLM predictable for the people actually using it.",
       "hashtags": "#kaelum #ai #stability #klm #commercecurrency"
     },
     "v2": {
@@ -321,11 +321,11 @@
   "30": {
     "headline": "The currency of confidence.",
     "v1": {
-      "caption": "Confidence in a currency is built through architecture, not marketing, a hardcoded floor that cannot be broken, Ai governance that holds at every transaction, regulatory soundness under the closed-loop exemption. KAELUM was built to earn that confidence structurally, governed throughout by K.A.T.E., rather than claim it rhetorically.",
+      "caption": "Confidence in a currency is built through architecture, not marketing, a hardcoded rate that cannot be broken, Ai governance that holds at every transaction, regulatory soundness under the closed-loop exemption. KAELUM was built to earn that confidence structurally, governed throughout by K.A.T.E., rather than claim it rhetorically.",
       "hashtags": "#kaelum #ai #confidence #commercecurrency #klm"
     },
     "v2": {
-      "caption": "Genuine confidence in a financial product comes from what the architecture guarantees, not from what the marketing claims. KAELUM, governed by K.A.T.E. with a hardcoded floor and closed-loop regulatory soundness, was built to earn confidence the structural way.",
+      "caption": "Genuine confidence in a financial product comes from what the architecture guarantees, not from what the marketing claims. KAELUM, governed by K.A.T.E. with a hardcoded fixed rate and closed-loop regulatory soundness, was built to earn confidence the structural way.",
       "hashtags": "#kaelum #ai #commercecurrency #confidence #klm"
     }
   },
@@ -385,13 +385,13 @@
     }
   },
   "36": {
-    "headline": "£0.09 guaranteed floor price.",
+    "headline": "£0.20 fixed rate.",
     "v1": {
-      "caption": "Worth repeating because it is the number that makes KLM fundamentally different from a tradeable asset. £0.09, hardcoded, enforced by K.A.T.E. across every transaction. Not aspirational. Architectural.",
-      "hashtags": "#kaelum #klm #ai #floorprice #commercecurrency"
+      "caption": "Worth repeating because it is the number that makes KLM fundamentally different from a tradeable asset. £0.20, hardcoded, enforced by K.A.T.E. across every transaction. Not aspirational. Architectural.",
+      "hashtags": "#kaelum #klm #ai #fixedrate #commercecurrency"
     },
     "v2": {
-      "caption": "A floor price worth restating: £0.09, guaranteed, governed by K.A.T.E. on every single transaction. The number itself matters less than the fact that it is structurally enforced rather than merely claimed.",
+      "caption": "A fixed rate worth restating: £0.20, guaranteed, governed by K.A.T.E. on every single transaction. The number itself matters less than the fact that it is structurally enforced rather than merely claimed.",
       "hashtags": "#kaelum #ai #klm #commercecurrency #stability"
     }
   },
@@ -464,11 +464,11 @@
   "43": {
     "headline": "How the economics work.",
     "v1": {
-      "caption": "Customers buy KLM at £0.09, spend it with participating merchants and save 6% or more, guaranteed. Merchants accept KLM and gain commerce intelligence and customer loyalty. Creators monetise audiences through Social Paylinks and Commerce Drops. K.A.T.E. governs every transaction across all three.\n\nThat is the entire economic model, deliberately simple, because the simplicity is what makes it trustworthy.",
+      "caption": "Customers buy KLM at £0.20, spend it with participating merchants and save 6% or more, guaranteed. Merchants accept KLM and gain commerce intelligence and customer loyalty. Creators monetise audiences through Social Paylinks and Commerce Drops. K.A.T.E. governs every transaction across all three.\n\nThat is the entire economic model, deliberately simple, because the simplicity is what makes it trustworthy.",
       "hashtags": "#kaelum #ai #economics #commercecurrency #klm"
     },
     "v2": {
-      "caption": "The economics behind KAELUM are straightforward by design. £0.09 KLM, a guaranteed 6% or more customer saving, merchant commerce intelligence, creator monetisation, all governed by K.A.T.E. Three participant types, one transparent model.",
+      "caption": "The economics behind KAELUM are straightforward by design. £0.20 KLM, a guaranteed 6% or more customer saving, merchant commerce intelligence, creator monetisation, all governed by K.A.T.E. Three participant types, one transparent model.",
       "hashtags": "#kaelum #ai #economics #commercecurrency #klm"
     }
   },
