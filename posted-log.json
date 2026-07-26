@@ -1825,5 +1825,14 @@
     "postId": "urn:li:share:7486884864663851008",
     "status": "posted",
     "at": "2026-07-25T20:47:31.659Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 1,
+    "day": 35,
+    "image": "images/personal/kaelum-agentic-banking/kaelum-agentic-banking13.png",
+    "postId": "urn:li:share:7487064725944508416",
+    "status": "posted",
+    "at": "2026-07-26T08:42:13.966Z"
   }
 ]
