@@ -2032,5 +2032,14 @@
     "postId": "urn:li:share:7488293541081956352",
     "status": "posted",
     "at": "2026-07-29T18:05:06.224Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 3,
+    "day": 38,
+    "image": "images/kaelum/kaelum-users/kaelum-merchants2.png",
+    "postId": "urn:li:share:7488335634454040576",
+    "status": "posted",
+    "at": "2026-07-29T20:52:22.214Z"
   }
 ]
