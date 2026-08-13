@@ -2806,5 +2806,14 @@
     "postId": "urn:li:share:7493680689679130624",
     "status": "posted",
     "at": "2026-08-13T14:51:42.542Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 3,
+    "day": 53,
+    "image": "images/personal/kaelum-ai-board-of-directors/kaelum-aiboard-directors1.png",
+    "postId": "urn:li:share:7493727068124430336",
+    "status": "posted",
+    "at": "2026-08-13T17:56:00.143Z"
   }
 ]
