@@ -3067,5 +3067,14 @@
     "postId": "urn:li:share:7495474246010245120",
     "status": "posted",
     "at": "2026-08-18T13:38:39.660Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 2,
+    "day": 58,
+    "image": "images/personal/kaelum-onboarding/kaelum-merchant-onboarding13.png",
+    "postId": "urn:li:share:7495486295671205888",
+    "status": "posted",
+    "at": "2026-08-18T14:26:32.590Z"
   }
 ]
