@@ -22,7 +22,7 @@ const fs = require("fs");
 const path = require("path");
 
 const bluesky = require("./bluesky");
-// const x = require("./x");             // added next (OAuth 1.0a, credentials ready)
+const x = require("./x");                 // OAuth 1.0a (credentials in GitHub secrets)
 // const threads = require("./threads"); // added after the image-hosting decision
 
 const DRY_RUN = String(process.env.DRY_RUN || "").toLowerCase() === "true";
@@ -57,6 +57,15 @@ function platformTargets() {
     //     imagePath: job.image, text: job.text, alt: job.alt, dryRun: DRY_RUN,
     //   }),
     // },
+    {
+      name: "x",
+      enabled: true,
+      publish: (job) => x.publish({
+        apiKey: process.env.X_API_KEY, apiSecret: process.env.X_API_SECRET,
+        accessToken: process.env.X_ACCESS_TOKEN, accessSecret: process.env.X_ACCESS_SECRET,
+        imagePath: job.image, text: job.text, alt: job.alt, dryRun: DRY_RUN,
+      }),
+    },
     // {
     //   name: "threads",
     //   enabled: true,
