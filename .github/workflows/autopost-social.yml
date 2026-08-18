@@ -1,0 +1,80 @@
+name: KAELUM social auto-post
+
+# Mirrors the three KAELUM company posts each day to Bluesky (and, once wired,
+# X and Threads). Separate from autopost.yml (LinkedIn) on purpose: own log,
+# own run history, so a failure on one side never blocks the other.
+#
+# All times UTC. UK is BST (UTC+1) for a summer-started run.
+#   08:00 UTC = 09:00 UK  trio slot 1
+#   14:00 UTC = 15:00 UK  trio slot 2
+#   17:00 UTC = 18:00 UK  trio slot 3
+#
+# These three UTC times also match the personal-LinkedIn crons in autopost.yml.
+# That is harmless: this is a separate workflow with its own log file and a
+# pull-rebase-with-retry push below. If you ever see a posted-social-log.json
+# push conflict, offset these by two minutes (e.g. "2 8 * * *").
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Manual test: trio slot (1, 2 or 3)"
+        required: false
+      dry_run:
+        description: "true = preview only, nothing published"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+
+jobs:
+  social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Publish the scheduled social posts
+        env:
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          # X (uncomment when x.js lands; secrets already isolated):
+          # X_API_KEY: ${{ secrets.X_API_KEY }}
+          # X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          # X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          # X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          # Threads (uncomment after the image-hosting decision):
+          # THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          # THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          START_DATE: ${{ vars.START_DATE }}
+          TRIGGER_CRON: ${{ github.event.schedule }}
+          SLOT: ${{ github.event.inputs.slot }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: node post-social.js
+
+      - name: Record what was posted
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain posted-social-log.json)" ]; then
+            git config user.name "kaelum-autopost"
+            git config user.email "actions@users.noreply.github.com"
+            git add posted-social-log.json
+            git commit -m "log: social posted entry [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep 5
+            done
+          else
+            echo "No new social post logged."
+          fi
