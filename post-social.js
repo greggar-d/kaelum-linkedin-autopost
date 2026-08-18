@@ -23,7 +23,15 @@ const path = require("path");
 
 const bluesky = require("./bluesky");
 const x = require("./x");                 // OAuth 1.0a (credentials in GitHub secrets)
-// const threads = require("./threads"); // added after the image-hosting decision
+const threads = require("./threads");     // Meta Threads API (public image URL)
+
+// Public base for the images repo Threads fetches from. Override via env if the
+// repo name ever changes. Image URL = base + "/" + (calendar image minus "images/").
+const THREADS_IMAGE_BASE = (process.env.THREADS_IMAGE_BASE ||
+  "https://raw.githubusercontent.com/greggar-d/kaelum-social-images/main").replace(/\/+$/, "");
+function threadsImageUrl(image) {
+  return THREADS_IMAGE_BASE + "/" + image.replace(/^images\//, "");
+}
 
 const DRY_RUN = String(process.env.DRY_RUN || "").toLowerCase() === "true";
 const SOCIAL_LOG = path.join(__dirname, "posted-social-log.json");
@@ -64,6 +72,14 @@ function platformTargets() {
         apiKey: process.env.X_API_KEY, apiSecret: process.env.X_API_SECRET,
         accessToken: process.env.X_ACCESS_TOKEN, accessSecret: process.env.X_ACCESS_SECRET,
         imagePath: job.image, text: job.text, alt: job.alt, dryRun: DRY_RUN,
+      }),
+    },
+    {
+      name: "threads",
+      enabled: true,
+      publish: (job) => threads.publish({
+        userId: process.env.THREADS_USER_ID, accessToken: process.env.THREADS_ACCESS_TOKEN,
+        imageUrl: threadsImageUrl(job.image), text: job.text, dryRun: DRY_RUN,
       }),
     },
     // {

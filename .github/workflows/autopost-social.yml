@@ -52,9 +52,8 @@ jobs:
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
-          # Threads (uncomment after the image-hosting decision):
-          # THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-          # THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           START_DATE: ${{ vars.START_DATE }}
           TRIGGER_CRON: ${{ github.event.schedule }}
           SLOT: ${{ github.event.inputs.slot }}
