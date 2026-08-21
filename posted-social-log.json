@@ -295,5 +295,32 @@
     "id": "18100627757084937",
     "status": "posted",
     "at": "2026-08-21T14:23:49.822Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 61,
+    "image": "images/kaelum/kaelum-get-the-merch/kaelum-get-the-merch2.png",
+    "status": "failed",
+    "error": "bluesky: image images/kaelum/kaelum-get-the-merch/kaelum-get-the-merch2.png is 1155690 bytes, over the 1000000 byte limit. A compressed copy is needed for Bluesky.",
+    "at": "2026-08-21T17:28:51.860Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 61,
+    "image": "images/kaelum/kaelum-get-the-merch/kaelum-get-the-merch2.png",
+    "id": "https://x.com/kaelumtechno/status/2090853658720100769",
+    "status": "posted",
+    "at": "2026-08-21T17:28:53.352Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 61,
+    "image": "images/kaelum/kaelum-get-the-merch/kaelum-get-the-merch2.png",
+    "id": "18106161314464393",
+    "status": "posted",
+    "at": "2026-08-21T17:29:03.693Z"
   }
 ]
