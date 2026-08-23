@@ -430,5 +430,32 @@
     "id": "18015117143730233",
     "status": "posted",
     "at": "2026-08-23T08:35:59.676Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 2,
+    "day": 63,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-merchant-onboarding5.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mtqxvr2es52x",
+    "status": "posted",
+    "at": "2026-08-23T14:12:58.495Z"
+  },
+  {
+    "platform": "x",
+    "slot": 2,
+    "day": 63,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-merchant-onboarding5.png",
+    "id": "https://x.com/kaelumtechno/status/2091529135088865363",
+    "status": "posted",
+    "at": "2026-08-23T14:12:59.440Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 2,
+    "day": 63,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-merchant-onboarding5.png",
+    "id": "18127273393666753",
+    "status": "posted",
+    "at": "2026-08-23T14:13:11.245Z"
   }
 ]
