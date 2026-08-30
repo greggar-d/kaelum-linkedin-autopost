@@ -3679,5 +3679,14 @@
     "postId": "urn:li:share:7499783046854946817",
     "status": "posted",
     "at": "2026-08-30T11:00:17.987Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 2,
+    "day": 70,
+    "image": "images/kaelum/kaelum-services/kaelum-services41.png",
+    "postId": "urn:li:share:7499813290319978496",
+    "status": "posted",
+    "at": "2026-08-30T13:00:28.552Z"
   }
 ]
