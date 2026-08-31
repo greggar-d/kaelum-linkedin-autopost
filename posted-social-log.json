@@ -1078,5 +1078,32 @@
     "id": "18179770852421058",
     "status": "posted",
     "at": "2026-08-31T08:00:34.588Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 2,
+    "day": 71,
+    "image": "images/kaelum/kaelum-agentic-banking/kaelum-agentic-banking1.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3muf2wm7ajf25",
+    "status": "posted",
+    "at": "2026-08-31T14:00:23.003Z"
+  },
+  {
+    "platform": "x",
+    "slot": 2,
+    "day": 71,
+    "image": "images/kaelum/kaelum-agentic-banking/kaelum-agentic-banking1.png",
+    "id": "https://x.com/kaelumtechno/status/2094425069879746764",
+    "status": "posted",
+    "at": "2026-08-31T14:00:24.094Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 2,
+    "day": 71,
+    "image": "images/kaelum/kaelum-agentic-banking/kaelum-agentic-banking1.png",
+    "id": "18085753265670905",
+    "status": "posted",
+    "at": "2026-08-31T14:00:36.410Z"
   }
 ]
