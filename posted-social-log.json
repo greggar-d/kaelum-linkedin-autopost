@@ -1726,5 +1726,32 @@
     "id": "18116832934968898",
     "status": "posted",
     "at": "2026-09-08T08:00:30.589Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 2,
+    "day": 79,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-customer-onboarding4.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3muz6o2wdab2t",
+    "status": "posted",
+    "at": "2026-09-08T14:00:26.242Z"
+  },
+  {
+    "platform": "x",
+    "slot": 2,
+    "day": 79,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-customer-onboarding4.png",
+    "id": "https://x.com/kaelumtechno/status/2097324186205348130",
+    "status": "posted",
+    "at": "2026-09-08T14:00:27.304Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 2,
+    "day": 79,
+    "image": "images/kaelum/kaelum-onboarding/kaelum-customer-onboarding4.png",
+    "status": "failed",
+    "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https:\\/\\/raw.githubusercontent.com\\/greggar-d\\/kaelum-social-images\\/main\\/kaelum\\/kaelum-onboarding\\/kaelum-customer-onboarding4.png.Please check the limitations section in our development document for more information: https:\\/\\/developers.facebook.com\\/docs\\/instagram-platform\\/instagram-graph-api\\/reference\\/ig-user\\/media#creating\",\"fbtrace_id\":\"A4NjHJKNsyWOSmJgqYEp47u\"}}",
+    "at": "2026-09-08T14:00:31.143Z"
   }
 ]
