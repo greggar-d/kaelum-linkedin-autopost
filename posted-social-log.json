@@ -2005,5 +2005,32 @@
     "id": "18126041518787481",
     "status": "posted",
     "at": "2026-09-11T14:00:35.891Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-feed/kaelum-social-feed12.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mvb24jrgcz2o",
+    "status": "posted",
+    "at": "2026-09-11T17:00:20.753Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-feed/kaelum-social-feed12.png",
+    "id": "https://x.com/kaelumtechno/status/2098456625166360789",
+    "status": "posted",
+    "at": "2026-09-11T17:00:21.805Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-feed/kaelum-social-feed12.png",
+    "id": "18445416151133480",
+    "status": "posted",
+    "at": "2026-09-11T17:00:35.549Z"
   }
 ]
