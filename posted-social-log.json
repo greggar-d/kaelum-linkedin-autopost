@@ -1978,5 +1978,32 @@
     "id": "18105542635906307",
     "status": "posted",
     "at": "2026-09-11T08:00:30.774Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 2,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-quotes/kaelum-social-quote42.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mvaq2p7nui2f",
+    "status": "posted",
+    "at": "2026-09-11T14:00:21.999Z"
+  },
+  {
+    "platform": "x",
+    "slot": 2,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-quotes/kaelum-social-quote42.png",
+    "id": "https://x.com/kaelumtechno/status/2098411331309425065",
+    "status": "posted",
+    "at": "2026-09-11T14:00:22.883Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 2,
+    "day": 82,
+    "image": "images/kaelum/kaelum-social-quotes/kaelum-social-quote42.png",
+    "id": "18126041518787481",
+    "status": "posted",
+    "at": "2026-09-11T14:00:35.891Z"
   }
 ]
