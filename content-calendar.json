@@ -447,18 +447,6 @@
   },
   {
     "destination": "kaelum",
-    "slot": 2,
-    "day": 7,
-    "image": "images/kaelum/kaelum-services/kaelum-services47.png",
-    "alt": "KAELUM Closed Loop Domains (CLD).",
-    "caption": "Closed-Loop Domains let merchants and platforms establish genuinely contained commerce environments within the broader KAELUM ecosystem, governed by K.A.T.E. CLD registrations are one of our seven revenue streams, structural infrastructure, not a cosmetic feature.",
-    "hashtags": "#kaelum #ai #cld #closedloop #commercecurrency",
-    "_folder": "kaelum-services",
-    "_source_filename": "kaelum-services47.png",
-    "_variant": 1
-  },
-  {
-    "destination": "kaelum",
     "slot": 3,
     "day": 7,
     "image": "images/kaelum/kaelum-social-quotes/kaelum-social-quote10.png",
@@ -1436,18 +1424,6 @@
     "hashtags": "#kaelum #ai #activebalance #fintech #commercecurrency",
     "_folder": "kaelum-social-quote",
     "_source_filename": "kaelum-social-quote82.png",
-    "_variant": 1
-  },
-  {
-    "destination": "personal",
-    "slot": 3,
-    "day": 20,
-    "image": "images/personal/kaelum-social-feed/kaelum-social-feed68.png",
-    "alt": "ScruffyDeals: A Closed-Loop Domain (CLD) is your own custom KAELUM address, for example krystal.kael",
-    "caption": "Identity that belongs to you, not to a platform that could revoke it. A CLD, your own custom KAELUM address, governed by K.A.T.E., is genuine ownership of how people find you.",
-    "hashtags": "#kaelum #ai #cld #identity #commercecurrency",
-    "_folder": "kaelum-social-feed",
-    "_source_filename": "kaelum-social-feed68.png",
     "_variant": 1
   },
   {
@@ -2644,7 +2620,7 @@
     "day": 37,
     "image": "images/kaelum/kaelum-facts/kaelum-facts29.png",
     "alt": "7 revenue streams.",
-    "caption": "Transaction fees, verified subscriptions, NFT marketplace commissions, KST creation fees, CLD registrations, redemption float, and platform licensing. Seven distinct revenue streams, deliberately diversified so no single source has to carry the weight of sustaining the entire ecosystem.\n\nGoverned by K.A.T.E. throughout, that diversification is what keeps fees transparent for merchants and customers rather than compounding pressure onto any one group.",
+    "caption": "Transaction fees, verified subscriptions, Tesserae marketplace commissions, KSC creation fees, redemption float, and platform licensing. Six distinct revenue streams, deliberately diversified so no single source has to carry the weight of sustaining the entire ecosystem.\n\nGoverned by K.A.T.E. throughout, that diversification is what keeps fees transparent for merchants and customers rather than compounding pressure onto any one group.",
     "hashtags": "#kaelum #ai #revenue #commercecurrency #fintech",
     "_folder": "kaelum-facts",
     "_source_filename": "kaelum-facts29.png",
@@ -3212,12 +3188,12 @@
     "day": 45,
     "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it24.png",
     "alt": "Some of you will deride every new revenue stream until you check this thing is not a discount that f",
-    "caption": "Skepticism toward seven revenue streams is fair until you actually examine the structure, transaction fees, subscriptions, NFT commissions, KST fees, CLD registrations, redemption float, platform licensing, governed by K.A.T.E. Read the actual model before assuming it is marketing dressed up as substance.",
+    "caption": "Skepticism toward six revenue streams is fair until you actually examine the structure, transaction fees, subscriptions, Tesserae commissions, KSC fees, redemption float, platform licensing, governed by K.A.T.E. Read the actual model before assuming it is marketing dressed up as substance.",
     "hashtags": "#kaelum #ai #revenue #commercecurrency #fintech",
     "_folder": "kaelum-yeah-i-said-it",
     "_source_filename": "kaelum-yeah-i-said-it24.png",
     "_variant": 1,
-    "shortCaption": "Skepticism toward seven revenue streams is fair until you examine the structure: transaction fees, subscriptions, Tessera commissions, KSC fees, CLD registrations, redemption float and platform licensing, all governed by K.A.T.E."
+    "shortCaption": "Skepticism toward six revenue streams is fair until you examine the structure: transaction fees, subscriptions, Tessera commissions, KSC fees, redemption float and platform licensing, all governed by K.A.T.E."
   },
   {
     "destination": "kaelum",
@@ -3673,7 +3649,7 @@
     "day": 51,
     "image": "images/personal/kaelum-facts/kaelum-facts39.png",
     "alt": "7 revenue streams.",
-    "caption": "Seven, deliberately, not one. Transaction fees, verified subscriptions, NFT marketplace commissions, KST creation fees, CLD registrations, redemption float and platform licensing, governed by K.A.T.E. throughout. Diversification that keeps the model sustainable without leaning hard on any single group of participants.",
+    "caption": "Six, deliberately, not one. Transaction fees, verified subscriptions, Tesserae marketplace commissions, KSC creation fees, redemption float and platform licensing, governed by K.A.T.E. throughout. Diversification that keeps the model sustainable without leaning hard on any single group of participants.",
     "hashtags": "#kaelum #ai #revenue #fintech #commercecurrency",
     "_folder": "kaelum-facts",
     "_source_filename": "kaelum-facts39.png",
@@ -3903,7 +3879,7 @@
     "day": 54,
     "image": "images/personal/kaelum-social-quotes/kaelum-social-quote68.png",
     "alt": "Most payment networks are fee structures or operators. KAELUM monetises it as.",
-    "caption": "The honest version of how most payment networks make money is that they monetise the merchant relationship for their own benefit first. KAELUM built seven distinct revenue streams, transaction fees, subscriptions, NFT marketplace commissions, KST creation fees, CLD registrations, redemption float and platform licensing, designed to sustain the ecosystem rather than extract maximum value from any single party.\n\nGoverned by K.A.T.E. throughout, that diversification is what lets KAELUM keep fees transparent and reasonable instead of compounding charges onto merchants to fund the whole operation.",
+    "caption": "The honest version of how most payment networks make money is that they monetise the merchant relationship for their own benefit first. KAELUM built six distinct revenue streams, transaction fees, subscriptions, Tesserae marketplace commissions, KSC creation fees, redemption float and platform licensing, designed to sustain the ecosystem rather than extract maximum value from any single party.\n\nGoverned by K.A.T.E. throughout, that diversification is what lets KAELUM keep fees transparent and reasonable instead of compounding charges onto merchants to fund the whole operation.",
     "hashtags": "#kaelum #ai #revenue #commercecurrency #fintech",
     "_folder": "kaelum-social-quote",
     "_source_filename": "kaelum-social-quote68.png",
@@ -4341,18 +4317,6 @@
     "hashtags": "#kaelum #europeansovereignty #ai #payments #fintech",
     "_folder": "kaelum-social-quote",
     "_source_filename": "kaelum-social-quote35.png",
-    "_variant": 1
-  },
-  {
-    "destination": "personal",
-    "slot": 3,
-    "day": 60,
-    "image": "images/personal/kaelum-social-feed/kaelum-social-feed76.png",
-    "alt": "DOCXTA: A Closed Loop Domain (CLD) replaces a string of digits with something people actually rememb",
-    "caption": "Easier to share, easier to trust, instantly yours, governed by K.A.T.E. A CLD replaces a string of digits with genuine identity, built specifically for commerce.",
-    "hashtags": "#kaelum #ai #cld #identity #commercecurrency",
-    "_folder": "kaelum-social-feed",
-    "_source_filename": "kaelum-social-feed76.png",
     "_variant": 1
   },
   {
@@ -5749,18 +5713,6 @@
     "hashtags": "#kaelum #ai #claude #commercecurrency #kate",
     "_folder": "kaelum-facts",
     "_source_filename": "kaelum-facts16.png",
-    "_variant": 2
-  },
-  {
-    "destination": "kaelum",
-    "slot": 2,
-    "day": 80,
-    "image": "images/kaelum/kaelum-services/kaelum-services47.png",
-    "alt": "KAELUM Closed Loop Domains (CLD).",
-    "caption": "Contained commerce environments within the KAELUM ecosystem, CLDs, governed by K.A.T.E., give merchants and platforms structural control over their own corner of the network.",
-    "hashtags": "#kaelum #ai #cld #ecosystem #commercecurrency",
-    "_folder": "kaelum-services",
-    "_source_filename": "kaelum-services47.png",
     "_variant": 2
   },
   {
