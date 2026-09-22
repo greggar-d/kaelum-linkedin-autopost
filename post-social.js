@@ -159,7 +159,7 @@ function appendLog(entry) {
   const day = dayIndex(startDate);
   log(`Social trigger -> slot=${slot} day=${day} dryRun=${DRY_RUN}`);
 
-  if (day < 1 || day > 90) { log(`Day ${day} outside the 1-90 window. Nothing to do.`); return; }
+  if (day < 1 || day > 120) { log(`Day ${day} outside the 1-120 window. Nothing to do.`); return; }
 
   const rows = loadCalendar();
   const row = findKaelumRow(rows, slot, day);

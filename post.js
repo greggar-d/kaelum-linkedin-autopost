@@ -198,8 +198,8 @@ function alreadyPosted(destination, slot, day) {
 
   console.log(`Trigger -> destination=${destination} slot=${slot} day=${day} dryRun=${DRY_RUN}`);
 
-  if (day < 1 || day > 90) {
-    console.log(`Day ${day} is outside the 1-90 campaign window. Nothing to do.`);
+    if (day < 1 || day > 120) {
+    console.log(`Day ${day} is outside the 1-120 campaign window. Nothing to do.`);
     return;
   }
 
