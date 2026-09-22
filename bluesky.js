@@ -14,7 +14,7 @@ const path = require("path");
 
 const PDS = "https://bsky.social";
 const TEXT_LIMIT = 300;        // Bluesky counts graphemes; 280-char captions sit safely under this.
-const BLOB_LIMIT = 1000000;    // Bytes. Bluesky rejects image embeds larger than ~1,000,000 bytes.
+const BLOB_LIMIT = 2000000;    // Bytes. Raised from 1,000,000; this PDS accepts ~1.7 MB uploads.
 
 function mimeFor(p) {
   const ext = path.extname(p).toLowerCase();
