@@ -203,6 +203,8 @@ function alreadyPosted(destination, slot, day) {
     return;
   }
 
+  
+
   const rows = loadManifest();
   const post = findPost(rows, destination, slot, day);
   if (!post) {
