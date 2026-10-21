@@ -1,12 +1,12 @@
 # KAELUM LinkedIn auto-post
 
-> **Status: campaign complete.** The 98-day calendar finished on 27 September 2026
-> (563 LinkedIn posts and 344 posts to other platforms). Nothing further is
-> scheduled. The content in this repo predates two October 2026 changes: the
-> commerce currency was renamed from KLM to KAE, and the regulatory wording was
-> tightened (the closed-loop position must be stated as the company's considered
-> view, never as a confirmed exemption). Do not reuse any caption from this repo
-> without reviewing it against the current KAELUM rules first.
+> **Status: KAE relaunch calendar loaded (21 October 2026).** 174 images from four
+> folders (kaelum-facts, kaelum-purple-cow, kaelum-social-quotes,
+> kaelum-yeah-i-said-it), each posted once to the KAELUM Page and once to the
+> personal profile, half a cycle apart: 58 days at 3 posts a day per destination.
+> Other image folders are kept but not scheduled. All captions use KAE and the
+> current KAELUM wording rules. The first campaign's logs are archived in
+> `logs/archive-2026-09/`. Posting starts on the `START_DATE` repository variable.
 
 Posts pre-produced KAELUM content to two LinkedIn destinations, three times a
 day each, for a 90 day run. Built on the same pattern as `8t-images`: content
