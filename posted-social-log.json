@@ -295,5 +295,14 @@
     "status": "failed",
     "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Saturday, 24-Oct-26 01:00:21 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AWgKznyJkpnE50o9Mv-fTsv\"}}",
     "at": "2026-10-24T08:00:21.949Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 1,
+    "day": 4,
+    "image": "images/kaelum/kaelum-social-quotes/kaelum-social-post (4).png",
+    "status": "failed",
+    "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Saturday, 24-Oct-26 05:31:44 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A-fD9RCs3GHVLjSodKc0b7m\"}}",
+    "at": "2026-10-24T12:31:44.785Z"
   }
 ]
