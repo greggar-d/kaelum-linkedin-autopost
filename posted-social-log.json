@@ -547,5 +547,32 @@
     "status": "failed",
     "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Monday, 26-Oct-26 08:01:07 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Aflw4NaCdBT8I6VuCCNquYl\"}}",
     "at": "2026-10-26T15:01:07.439Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 6,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it6.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mys73ywntc2i",
+    "status": "posted",
+    "at": "2026-10-26T17:00:22.383Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 6,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it6.png",
+    "id": "https://x.com/kaelumtechno/status/2114764085896139127",
+    "status": "posted",
+    "at": "2026-10-26T17:00:23.446Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 6,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it6.png",
+    "status": "failed",
+    "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Monday, 26-Oct-26 10:00:23 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AWQzsRMVeiPhRiENiQ1FRUS\"}}",
+    "at": "2026-10-26T17:00:23.675Z"
   }
 ]
