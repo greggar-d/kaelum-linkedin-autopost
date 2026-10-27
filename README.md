@@ -1,20 +1,15 @@
 # KAELUM LinkedIn auto-post
 
-> **Status: KAE relaunch calendar loaded (21 October 2026).** 174 images from four
-> folders (kaelum-facts, kaelum-purple-cow, kaelum-social-quotes,
-> kaelum-yeah-i-said-it), each posted once to the KAELUM Page and once to the
-> personal profile, half a cycle apart: 58 days at 3 posts a day per destination.
-> Other image folders are kept but not scheduled. All captions use KAE and the
-> current KAELUM wording rules. The first campaign's logs are archived in
-> `logs/archive-2026-09/`. Posting starts on the `START_DATE` repository variable.
-
-Posts pre-produced KAELUM content to two LinkedIn destinations, three times a
-day each, for a 90 day run. Built on the same pattern as `8t-images`: content
-committed into the repo, GitHub Actions as the scheduler, a Node script doing
-the posting. No server, no n8n.
-
-- **Greggar Deterville personal profile**: 09:00, 15:00, 18:00 UK
-- **KAELUM company Page**: 12:00, 14:00, 21:00 UK
+> **Status: KAE relaunch calendar extended (27 October 2026).** 192 images per
+> destination from six folders (kaelum-facts, kaelum-purple-cow,
+> kaelum-social-quotes, kaelum-yeah-i-said-it, kaelum-waitlist,
+> kaelum-banks-engagement), 64 days at 3 posts a day per destination. Only these
+> six folders are in the rotation; other image folders are kept but not
+> scheduled. The waitlist and banks-engagement cards are spread evenly from day 8,
+> alternating, and the personal profile carries them on different days from the
+> KAELUM Page. All captions use KAE and the current KAELUM wording rules. The
+> first campaign's logs are archived in `logs/archive-2026-09/`. Posting starts
+> on the `START_DATE` repository variable.
 
 ## Repo layout
 
