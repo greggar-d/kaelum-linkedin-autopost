@@ -169,5 +169,14 @@
     "postId": "urn:li:share:7521526344157958145",
     "status": "posted",
     "at": "2026-10-29T11:00:24.085Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 2,
+    "day": 9,
+    "image": "images/kaelum/kaelum-purple-cow/kaelum_purple_cow (6).png",
+    "postId": "urn:li:share:7521556547676700672",
+    "status": "posted",
+    "at": "2026-10-29T13:00:24.984Z"
   }
 ]
