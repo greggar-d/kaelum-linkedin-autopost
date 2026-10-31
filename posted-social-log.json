@@ -1114,5 +1114,14 @@
     "status": "failed",
     "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Saturday, 31-Oct-26 10:00:26 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7K50-1dFsMQTIMW2GaOeJu\"}}",
     "at": "2026-10-31T17:00:26.433Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 2,
+    "day": 11,
+    "image": "images/kaelum/kaelum-banks-engagement/bank_blocked_agents (1).png",
+    "status": "failed",
+    "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"Error validating access token: Session has expired on Saturday, 17-Oct-26 06:23:16 PDT. The current time is Saturday, 31-Oct-26 11:01:24 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ahaw8xxGG_RYK187MIM0em4\"}}",
+    "at": "2026-10-31T18:01:24.996Z"
   }
 ]
