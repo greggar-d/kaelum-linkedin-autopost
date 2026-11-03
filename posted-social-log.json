@@ -1384,5 +1384,32 @@
     "status": "failed",
     "error": "threads createContainer failed: 400 {\"error\":{\"message\":\"An unknown error occurred\",\"type\":\"OAuthException\",\"code\":1,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https:\\/\\/raw.githubusercontent.com\\/greggar-d\\/kaelum-social-images\\/main\\/kaelum\\/kaelum-social-quotes\\/kaelum-social-post\\u002520(14).png.Please check the limitations section in our development document for more information: https:\\/\\/developers.facebook.com\\/docs\\/instagram-platform\\/instagram-graph-api\\/reference\\/ig-user\\/media#creating\",\"fbtrace_id\":\"AtMKuTauW3baD4uE5l-p-QA\"}}",
     "at": "2026-11-03T14:00:27.558Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 14,
+    "image": "images/kaelum/kaelum-waitlist/kaelum_waitlist (2).png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mzgcvtojva26",
+    "status": "posted",
+    "at": "2026-11-03T17:01:46.116Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 14,
+    "image": "images/kaelum/kaelum-waitlist/kaelum_waitlist (2).png",
+    "id": "https://x.com/kaelumtechno/status/2117663539531760111",
+    "status": "posted",
+    "at": "2026-11-03T17:01:47.073Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 14,
+    "image": "images/kaelum/kaelum-waitlist/kaelum_waitlist (2).png",
+    "id": "18096579467481502",
+    "status": "posted",
+    "at": "2026-11-03T17:01:57.539Z"
   }
 ]
