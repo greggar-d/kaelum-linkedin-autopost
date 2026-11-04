@@ -493,5 +493,14 @@
     "postId": "urn:li:share:7523655376106471424",
     "status": "posted",
     "at": "2026-11-04T08:00:24.668Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 1,
+    "day": 15,
+    "image": "images/kaelum/kaelum-facts/kaelum-facts13.png",
+    "postId": "urn:li:share:7523700680893644801",
+    "status": "posted",
+    "at": "2026-11-04T11:00:26.188Z"
   }
 ]
