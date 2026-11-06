@@ -1636,5 +1636,32 @@
     "id": "17940842568391972",
     "status": "posted",
     "at": "2026-11-06T14:00:36.185Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 17,
+    "image": "images/kaelum/kaelum-banks-engagement/bank_blocked_agents (2).png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3mznua4d23n2f",
+    "status": "posted",
+    "at": "2026-11-06T17:00:21.869Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 17,
+    "image": "images/kaelum/kaelum-banks-engagement/bank_blocked_agents (2).png",
+    "id": "https://x.com/kaelumtechno/status/2118750349909544964",
+    "status": "posted",
+    "at": "2026-11-06T17:00:22.842Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 17,
+    "image": "images/kaelum/kaelum-banks-engagement/bank_blocked_agents (2).png",
+    "id": "18107084045362047",
+    "status": "posted",
+    "at": "2026-11-06T17:00:33.743Z"
   }
 ]
