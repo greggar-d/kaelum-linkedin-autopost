@@ -979,5 +979,14 @@
     "postId": "urn:li:share:7526916819635408896",
     "status": "posted",
     "at": "2026-11-13T08:00:13.398Z"
+  },
+  {
+    "destination": "kaelum",
+    "slot": 1,
+    "day": 24,
+    "image": "images/kaelum/kaelum-banks-engagement/bank_blocked_agents (3).png",
+    "postId": "urn:li:share:7526962130852552704",
+    "status": "posted",
+    "at": "2026-11-13T11:00:16.716Z"
   }
 ]
