@@ -2365,5 +2365,32 @@
     "id": "18127908865850738",
     "status": "posted",
     "at": "2026-11-15T14:00:26.424Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 26,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it21.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3n2eig6wytr2d",
+    "status": "posted",
+    "at": "2026-11-15T17:00:14.672Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 26,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it21.png",
+    "status": "failed",
+    "error": "x create tweet failed: 403 {\"detail\":\"Your account is temporarily locked. Please log in to https://x.com to unlock your account.\",\"status\":403,\"title\":\"Forbidden\",\"type\":\"about:blank\"}",
+    "at": "2026-11-15T17:00:15.299Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 26,
+    "image": "images/kaelum/kaelum-yeah-i-said-it/kaelum-yeah-said-it21.png",
+    "id": "18439668604149985",
+    "status": "posted",
+    "at": "2026-11-15T17:00:26.801Z"
   }
 ]
