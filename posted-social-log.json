@@ -2626,5 +2626,32 @@
     "id": "18187942291423787",
     "status": "posted",
     "at": "2026-11-18T14:00:29.927Z"
+  },
+  {
+    "platform": "bluesky",
+    "slot": 3,
+    "day": 29,
+    "image": "images/kaelum/kaelum-facts/kaelum-facts22.png",
+    "id": "at://did:plc:madnjvghjjdex6z7qdb3m2cg/app.bsky.feed.post/3n2lzt22fyr2x",
+    "status": "posted",
+    "at": "2026-11-18T17:00:17.646Z"
+  },
+  {
+    "platform": "x",
+    "slot": 3,
+    "day": 29,
+    "image": "images/kaelum/kaelum-facts/kaelum-facts22.png",
+    "id": "https://x.com/kaelumtechno/status/2123098986416595224",
+    "status": "posted",
+    "at": "2026-11-18T17:00:18.567Z"
+  },
+  {
+    "platform": "threads",
+    "slot": 3,
+    "day": 29,
+    "image": "images/kaelum/kaelum-facts/kaelum-facts22.png",
+    "id": "18131081791908500",
+    "status": "posted",
+    "at": "2026-11-18T17:00:31.610Z"
   }
 ]
