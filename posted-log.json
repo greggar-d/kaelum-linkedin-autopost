@@ -1762,5 +1762,14 @@
     "postId": "urn:li:share:7532065751583887360",
     "status": "posted",
     "at": "2026-11-27T13:00:14.477Z"
+  },
+  {
+    "destination": "personal",
+    "slot": 2,
+    "day": 38,
+    "image": "images/personal/kaelum-waitlist/kaelum_waitlist (5).png",
+    "postId": "urn:li:share:7532080847106142208",
+    "status": "posted",
+    "at": "2026-11-27T14:00:13.550Z"
   }
 ]
